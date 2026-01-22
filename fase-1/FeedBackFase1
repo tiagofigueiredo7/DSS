@@ -1,0 +1,13 @@
+Grupo 14
+
+Modelo de Domínio:
+- da forma que está a relação entre Cliente e proposta e Menu, um pedido pode ter N de ambos.
+Penso que é isso que querem modelar.
+- as tarefas associadas a um Funcionário não deveriam estar também relacionadas com o Pedido?
+
+
+Modelo de Use Cases:
+- não faz sentido ter passos a dizer "Cliente não faz/não adiciona...". Isso depois vê-se nas condições dos fluxos alternativos.
+
+Bom relatório com as peças de modelação solicitadas.
+
