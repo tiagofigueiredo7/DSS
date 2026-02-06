@@ -11,7 +11,7 @@ Implementação de um **Sistema Integrado de Cadeia de Restaurantes**, desenvolv
 - Duarte Escairo Brandão Reis Silva (a106936) — [darteescar](https://github.com/darteescar)
 - Luís António Peixoto Soares (a106932) — [luis7788](https://github.com/luis7788)
 - Tiago Silva Figueiredo (a106856) — [tiagofigueiredo7](https://github.com/tiagofigueiredo7)
-- Inês Ferreira Ribeiro (a104704) — [inesferribeiro](https://github.com/inesferribeiro)⭐️
+- Inês Ferreira Ribeiro (a104704) — [inesferribeiro](https://github.com/inesferribeiro)
 
 ## Dependências
 
